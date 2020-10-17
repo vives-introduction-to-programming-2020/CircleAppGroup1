@@ -1,4 +1,4 @@
-# Class Demo - Circle / Cilinder App
+# Class Demo - Circle / Cilinder App - Group 1
 
 Demo code of chapter 7 - Methods. Calculating area of circle and volume of Cilinder.
 
